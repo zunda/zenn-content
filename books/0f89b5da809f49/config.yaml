@@ -1,0 +1,18 @@
+title: "PaaSプロバイダのテクニカルサポート入門"
+summary: "Platform as a service (PaaS) プロバイダでのサポートエンジニアとしての経験を基にトラブルシューティングの手順をまとめます。PaaSプロバイダにサポート依頼を提出する場合の参考にもなります。"
+topics: ["PaaS", "テクニカルサポート", "トラブルシューティング"]
+published: true
+price: 0
+chapters:
+  - introduction
+  # 概観
+  - steps-to-troubleshoot
+  # 情報を集める
+  - information-from-user
+  - knowing-platform
+  # 情報を送る
+  - writing-style
+  # そのほか
+  - load-test
+  # まとめ
+  - summary
