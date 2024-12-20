@@ -3,10 +3,10 @@ title: "RubyでIPアドレス範囲を確認する"
 emoji: "🥤"
 type: "tech"
 topics: ["ruby", "ipv6", "ipv4"]
-published: false
+published: true
 ---
 
-これは[Ruby Advent Calendar 2024](https://qiita.com/advent-calendar/2024/ruby)の8日目の記事です。書いたのは日本時間の20日で空いているスロットに潜り込ませてもらいます。
+これは[Ruby Advent Calendar 2024](https://qiita.com/advent-calendar/2024/ruby)の8日目の記事です。書いたのは日本時間の20日で空いているスロットに潜り込ませてもらいます。前日分は「[ActivityPub RelayというActivityPubリレーサーバをRails 8を使って作った](https://gamelinks007.hatenablog.com/entry/developing-activity-pub-relay-with-rails-8)」、翌日分は「[Tips: ファイルの作成日時をファイル名のソート順と同じ順序になるように変換するRubyスクリプト](https://qiita.com/getty104/items/748b3141d7e73fef41e6)」でした。
 
 筆者は[PaaSプロバイダのサポートとして働いていて](https://zenn.dev/zunda/books/0f89b5da809f49)、プライベートなネットワークどうしを接続するVPC PeeringやVPNの設定を確認することがあります。例えば、`192.168.1.0/29`と接続されてるはずなのに`192.168.1.15`と通信できないのはどうしてか調査を依頼されることがあります。
 
